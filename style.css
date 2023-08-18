@@ -20,26 +20,6 @@
 
 }
 
-/* 
-- Light red: 
-- Orangey yellow: 
-- Green teal: 
-- Cobalt blue: 
-:root {
-    --main-color: #033a80;
-    --bg-color: #fff;
-    --text-color: #0f0c27;
-    --orther-color: rgb(213, 20, 20);
-    --hover: hsl(260, 100%, 51%);
-    --big-font: 3.2rem;
-    --medium-font: 1.8rem;
-    --p-font: .97rem;
-    --top-bg:#F8F8F8;
-    --sub-font:1.2rem;
-    --sub-sub-font:.9rem;
-}
-
-*/
 
 .attribution { 
     font-size: 11px; text-align: center;
@@ -59,8 +39,8 @@ body{
 }
 
 
- main{
-    min-width: 265px;
+ .main{
+/*     min-width: 265px; */
 } 
 
 
@@ -78,6 +58,7 @@ p{
     border-radius: 20px;
     margin: 15px 0;
     padding: 10px 50px;
+    min-width:260px;
 }
 
 .detailed-section{
