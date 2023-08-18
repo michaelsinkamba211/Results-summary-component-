@@ -248,7 +248,7 @@ p{
 .detailed-section-button{
     grid-area: detailed-section-button;
     height: 40px;
-    width: 80%;
+    width: 300px;
     align-self: center;
     border-radius: 23px;
     border-width: 0;
